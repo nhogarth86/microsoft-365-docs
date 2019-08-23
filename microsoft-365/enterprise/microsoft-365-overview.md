@@ -77,7 +77,7 @@ You can print this poster in letter, legal, or tabloid (11 x 17) formats.
 
 ## Avoid end of service for Office 2010 clients and servers and Windows 7
 
-The following products reach end of support on **January 14, 2010**:
+The following products reach end of support on **January 14, 2020**:
 
 - [Windows 7](https://aka.ms/win7upgrade)
 - [Exchange Server 2010](https://docs.microsoft.com/office365/enterprise/exchange-2010-end-of-support)
